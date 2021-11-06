@@ -24,4 +24,4 @@ var n,t=arguments[3],r=require("buffer").Buffer;(function(){var r,e=200,u="Unsup
 },{"./apiClass":"vVPn","lodash":"B1iE","./refs.js":"VyiV"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/api"),require("./js/refs.js");
 },{"./sass/main.scss":"clu1","./js/api":"cZF8","./js/refs.js":"VyiV"}]},{},["Focm"], null)
-//# sourceMappingURL=/js-team-project/src.55a8fee2.js.map
+//# sourceMappingURL=/js-team-project/src.49b83b4a.js.map
