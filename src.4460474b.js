@@ -22,4 +22,4 @@ var n,t=arguments[3],r=require("buffer").Buffer;(function(){var r,e=200,u="Unsup
 },{"./apiClass":"vVPn","lodash":"B1iE"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/api");
 },{"./sass/main.scss":"clu1","./js/api":"cZF8"}]},{},["Focm"], null)
-//# sourceMappingURL=/js-team-project/src.5d83834f.js.map
+//# sourceMappingURL=/js-team-project/src.4460474b.js.map
