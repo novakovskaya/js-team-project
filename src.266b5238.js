@@ -32,4 +32,4 @@ const e={footerLightbox:document.querySelector(".js-footer-light-box"),footerLig
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/api"),require("./js/refs.js"),require("./js/footer-lightbox");
 },{"./sass/main.scss":"clu1","./js/api":"cZF8","./js/refs.js":"VyiV","./js/footer-lightbox":"LmlW"}]},{},["Focm"], null)
-//# sourceMappingURL=/js-team-project/src.cbf8c8bd.js.map
+//# sourceMappingURL=/js-team-project/src.266b5238.js.map
