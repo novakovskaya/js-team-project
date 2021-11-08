@@ -49,4 +49,4 @@ const e={footerLightbox:document.querySelector(".js-footer-light-box"),footerLig
 },{"./refs":"VyiV"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/api"),require("./js/refs.js"),require("./js/footer-lightbox"),require("./js/header"),require("./js/modal.js");
 },{"./sass/main.scss":"clu1","./js/api":"cZF8","./js/refs.js":"VyiV","./js/footer-lightbox":"LmlW","./js/header":"cGsR","./js/modal.js":"RSqK"}]},{},["Focm"], null)
-//# sourceMappingURL=/js-team-project/src.90b37ca9.js.map
+//# sourceMappingURL=/js-team-project/src.eb50efcd.js.map
