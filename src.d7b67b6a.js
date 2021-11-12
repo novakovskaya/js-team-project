@@ -44,4 +44,4 @@ const e=document.getElementById("checkbox"),t=document.querySelector("body"),l={
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/api"),require("./js/refs.js"),require("./js/footer-lightbox"),require("./js/header"),require("./js/modal.js"),require("./js/currentPage"),require("./js/themeSwitcher"),require("./js/library");
 },{"./sass/main.scss":"clu1","./js/api":"cZF8","./js/refs.js":"VyiV","./js/footer-lightbox":"LmlW","./js/header":"cGsR","./js/modal.js":"RSqK","./js/currentPage":"VQ17","./js/themeSwitcher":"qgSZ","./js/library":"BfNj"}]},{},["Focm"], null)
-//# sourceMappingURL=/js-team-project/src.54c05e11.js.map
+//# sourceMappingURL=/js-team-project/src.d7b67b6a.js.map
