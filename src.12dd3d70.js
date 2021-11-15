@@ -87,4 +87,4 @@ var e,n=arguments[3];!function(t){"object"==typeof exports&&"undefined"!=typeof 
 },{"./refs.js":"VyiV","./pNotify":"t56F","./api.js":"cZF8"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/api"),require("./js/refs.js"),require("./js/footer-lightbox"),require("./js/header"),require("./js/modal.js"),require("./js/currentPage"),require("./js/themeSwitcher"),require("./js/library"),require("./js/preload"),require("./js/scroll-btn"),require("./js/lazy_load"),require("./js/speech-recognition");
 },{"./sass/main.scss":"clu1","./js/api":"cZF8","./js/refs.js":"VyiV","./js/footer-lightbox":"LmlW","./js/header":"cGsR","./js/modal.js":"RSqK","./js/currentPage":"VQ17","./js/themeSwitcher":"qgSZ","./js/library":"BfNj","./js/preload":"IFE5","./js/scroll-btn":"iH5e","./js/lazy_load":"AjW3","./js/speech-recognition":"FzGv"}]},{},["Focm"], null)
-//# sourceMappingURL=/js-team-project/src.4c0b01ad.js.map
+//# sourceMappingURL=/js-team-project/src.12dd3d70.js.map
